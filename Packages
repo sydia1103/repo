@@ -1,0 +1,16 @@
+Package: checkmatestore-1.2.deb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/checkmatestore-1.2.deb
+Size: 7356
+MD5sum: 97be34a13dffef25ea53504c722d2b3f
+SHA1: 1330E7A5C051C6DFBFF558184DE78ACCECB19032
+SHA256: 0863FEE434C9A1AED89696655B4075AA3EDDE2B2AD3EE2A0E99A99428C17FFE3
+
+Section: Tweaks
+Description: iOS 2-9 app store work again
+Author: @_AppleExpert <aplerebornweb@gmail.com>
+Name: CheckMate! Store
+
