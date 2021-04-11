@@ -1,9 +1,9 @@
-Package: checkmatestore-1.2.deb
-Version: 1.0
+Package: CheckMate!.deb
+Version: 6.1.6
 Architecture: iphoneos-arm
-Maintainer: @_AppleExpert <aplerebornweb@gmail.com>
+Maintainer: @_TestPackage <aplerebornweb@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/checkmatestore-1.2.deb
+Filename: ./debs/CheckMate!.deb
 Size: 7356
 MD5sum: 97be34a13dffef25ea53504c722d2b3f
 SHA1: 1330E7A5C051C6DFBFF558184DE78ACCECB19032
