@@ -15,6 +15,40 @@ Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Depiction: http://cydia.invoxiplaygames.uk/dp/checkmatestore.php
 Name: Checkmate, Store!
 
+Package: uk.invoxiplaygames.cydiahttpatch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk
+Installed-Size: 100
+Depends: cydia, mobilesubstrate, firmware (<< 4.0)
+Filename: ./debs/cydiahttpatch-1.0.deb
+Size: 2842
+MD5sum: 2100205abecf06d1a7d72d2636e770c4
+SHA1: 26c2c398c93f847aa007a7778b6148e554e395c6
+SHA256: 2c6ff66a0498eea88f786a17b8ca79400ae311a2f5f80d97eaeed44d4fe9d9bf
+Section: Tweaks
+Description: Removes HTTPS from Cydia to use on iOS 3.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/cydiahttpatch.php
+Name: Cydia HTTPatch
+
+Package: uk.invoxiplaygames.googlesigninfix
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames
+Installed-Size: 52
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/googlesigninfix-1.0.1.deb
+Size: 3432
+MD5sum: 9112f892fbaaa0b307151cfd1bad5276
+SHA1: d6e5506ea296892e80923293098dd792bc58834c
+SHA256: cb174fc33fbf70d07a99eba5338dd75114ef1118b5fb2f8c015093784bb7edfd
+Section: Tweaks
+Description: Fixes Google-owned app login on iOS 6.
+Author: InvoxiPlayGames
+Depiction: http://cydia.invoxiplaygames.uk/dp/gsigninfix.php
+Name: GSignInFix
+
 Package: uk.invoxiplaygames.tubefixer
 Version: 2.0-152+debug
 Architecture: iphoneos-arm
