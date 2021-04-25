@@ -1,8 +1,8 @@
-Origin: Test Repo
-Label: Test Repo
+Origin: Change to repo name
+Label: Change to repo name
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: Cydia Repo by @_AppleExpert.
+Description: Change to repo description.

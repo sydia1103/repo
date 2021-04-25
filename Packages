@@ -1,16 +1,17 @@
-Package: CheckMate!.deb
-Version: 6.1.6
+Package: uk.invoxiplaygames.checkmatestore
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: @_TestPackage <aplerebornweb@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/CheckMate!.deb
-Size: 7356
-MD5sum: 97be34a13dffef25ea53504c722d2b3f
-SHA1: 1330E7A5C051C6DFBFF558184DE78ACCECB19032
-SHA256: 0863FEE434C9A1AED89696655B4075AA3EDDE2B2AD3EE2A0E99A99428C17FFE3
-
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Installed-Size: 164
+Depends: mobilesubstrate, firmware (>= 2.0)
+Filename: ./debs/checkmatestore-1.2.deb
+Size: 5200
+MD5sum: 5245fc6431aadd77110a226b8f0d9ee8
+SHA1: 1330e7a5c051c6dfbff558184de78accecb19032
+SHA256: 0863fee434c9a1aed89696655b4075aa3edde2b2ad3ee2a0e99a99428c17ffe3
 Section: Tweaks
-Description: iOS 2-9 app store work again
-Author: @_AppleExpert <aplerebornweb@gmail.com>
-Name: CheckMate! Store
+Description: Disable capability limits in the App Store.
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: http://cydia.invoxiplaygames.uk/dp/checkmatestore.php
+Name: Checkmate, Store!
 
